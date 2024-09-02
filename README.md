@@ -18,5 +18,5 @@ Had sucessfully using Google Youtube API to scrap youtube comments, processing t
 
 # How to use
 1. Download requirements from CLI/Terminal : ```python -m pip install -r .\requirements.txt``` or ```python3 -m pip install -r .\requirements.txt```
-2. Also install jupyter notebook/lab : ```pip install jupyter notebook``` \n ```pip install jupyter-lab```
-3. Git clone : ```wait```
+2. Also install jupyter notebook/lab : ```pip install notebook``` or ```pip install jupyterlab```
+3. Git clone : ```git clone https://github.com/BangAjus/Youtube-Sentiment-Analysis.git```
